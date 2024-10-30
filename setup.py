@@ -11,7 +11,7 @@ setup(
     description="A Python package for process discovery using GNNs.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/PyProcTree",
+    url="https://github.com/jaxels20/PyProcTree",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
